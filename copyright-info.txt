@@ -1,0 +1,18 @@
+This is the attribution info for the images in this repo.
+
+ex1: Tiles and data courtesy OpenGeofiction and contributors.
+ex2: Map memomaps.de CC-BY-SA, map data Openstreetmap ODbL
+ex3: Tiles courtesy OpenGeofiction and contributors.
+ex4: Tiles and data created by Geofictician and contributors, built on the OpenStreetMap platform, including creative re-use of data shared by OpenStreetMap contributors.
+ex5: (C) OpenStreetMap contributors. Tiles style by Humanitarian OpenStreetMap Team hosted by OpenStreetMap France.
+ex6: (C) Openstreetmap France | Data (C) OpenStreetMap contributors
+ex7: Tiles and data courtesy OpenGeofiction and contributors.
+ex8: Tiles and data courtesy OpenGeofiction and contributors.
+ex9: Tiles and data courtesy OpenGeofiction and contributors.
+ex10: Tiles and data courtesy OpenGeofiction and contributors.
+ex11: Tiles and data courtesy OpenGeofiction and contributors.
+ex12: Tiles and data courtesy OpenGeofiction and contributors.
+ex13: Tiles and data courtesy OpenGeofiction and contributors.
+ex14: Tiles and data courtesy OpenGeofiction and contributors.
+ex15: Tiles and data created by Geofictician and contributors, built on the OpenStreetMap platform, including creative re-use of data shared by OpenStreetMap contributors.
+ex16: Tiles and data courtesy OpenGeofiction and contributors.
